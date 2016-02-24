@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Unknown/AndroidStudioProjects/SPC/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <color name="black">#000000</color>
+    <color name="dark_gray">#777777</color>
+    <color name="gray">#AAAAAA</color>
+    <color name="green">#00FF00</color>
+    <color name="soft_blue">#00CCFF</color>
+    <color name="white">#FFFFFF</color>
+    <string name="aboutLabel">About</string>
+    <string name="aboutParagraph">"Simple Passphrase Creator is a free and open source application used to generate passwords and passphrases. The features implemented here were kept to a minimum on purpose to promote simplicity. You can read more about the strength and complexity of the generated passwords by visiting my website. The souce code can be found there as well. Thank you. "</string>
+    <string name="app_name">SPC</string>
+    <string name="authorsName">Benjamin S. Newell</string>
+    <string name="button_label">GENERATE</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_about">About</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_settings">Settings</string>
+    <string name="numbers">Numbers</string>
+    <string name="passphrase">Passphrase</string>
+    <string name="password">Password</string>
+    <string name="siteLink">http://www.relabit.com</string>
+    <string name="spc_logo">SPC Logo</string>
+    <string name="special_chars">Special Characters</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_main">Simple Passphrase Creator</string>
+    <string name="zero">0</string>
+    <!-- From: file:/C:/Users/Unknown/AndroidStudioProjects/SPC/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>
