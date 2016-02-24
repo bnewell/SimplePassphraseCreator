@@ -16,7 +16,7 @@ PasswordGenerator.java - Class used to generate passphrases
 
 Screenshots
 --------------
-![Screenshot 1](/screenshots/screenshot1.jpg) ![Screenshot 2](/screenshots/screenshot2.jpg) ![Screenshot 3](/screenshots/screenshot3.jpg)
+![Screenshot 1](/screenshots/screenshot1.jpg =200) ![Screenshot 2](/screenshots/screenshot2.jpg =200) ![Screenshot 3](/screenshots/screenshot3.jpg =200)
 
 Author
 --------------
