@@ -1,7 +1,7 @@
 Simple Passphrase Creator
 =================
 
-A simple passphrase and password generator for Android.
+A simple Android application that helps users create memorable passphrases.
 
 Source Files
 --------------
@@ -12,7 +12,7 @@ MainActivity.java - Starting point for application
 
 PartialDictionary.java - Dictionary used to help create passphrases
 
-PasswordGenerator.java - Class used to generate passwords and passphrases
+PasswordGenerator.java - Class used to generate passphrases
 
 
 Author
